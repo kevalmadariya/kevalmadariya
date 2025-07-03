@@ -42,7 +42,7 @@ I'm a passionate **Computer Engineering student** at DDU with a strong foundatio
 
 **🎓 Bachelor of Technology in Computer Engineering**  
 📍 Dharmsinh Desai University (2022–2026)  
-📊 **CPI:** 9.11/10.0
+📊 **CPI:** 8.11/10.0
 
 </td>
 <td>
