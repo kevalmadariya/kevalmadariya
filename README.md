@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+Developer;Problem+Solver)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;AI+ML+Engineer;Problem+Solver)
 
 </div>
 
@@ -12,12 +12,11 @@
 
 I'm a passionate **Computer Engineering student** at DDU with a strong foundation in software development and problem-solving. I enjoy creating **impactful applications**, tackling **real-world challenges**, and building **scalable intelligent systems**.
 
-- 🎯 **Focus:** Full-stack development & real-time applications
-- 🌱 **Currently Learning:** Robotics, Advanced Backend Architecture, AI/ML
-- 🤝 **Open to Collaborate:** Web development projects
-- 💡 **Seeking Help:** Real-time secure systems architecture
-- 💬 **Ask me about:** Backend development, coding best practices
-- ⚡ **Fun Fact:** I love building apps that blend utility with creativity
+- 🎯 **Focus:** AI/ML development & real-time applications
+- 🌱 **Currently Learning:** Agents Architecture, Computer Vision
+- 🤝 **Open to Collaborate:** AI / ML projects
+- 💬 **Ask me about:** ML Models or Solutions for AI projects
+- ⚡ **Fun Fact:** I love integrating AI/ML Models in apps that blend utility with creativity
 
 ---
 
@@ -60,24 +59,22 @@ I'm a passionate **Computer Engineering student** at DDU with a strong foundatio
 ## 💻 Technical Skills
 
 ### Programming Languages
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 15px;" />
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" style="margin: 0 15px;" />
+                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" style="margin: 0 15px;" />
 </div>
 
 ### Frameworks & Technologies
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" style="margin: 0 15px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" style="margin: 0 15px;" /> </div>
+
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" style="margin: 0 15px;" /> 
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="40" alt="PyTorch" style="margin: 0 15px;" />
+  <img src="[https://lobehub.com/icons/langchain/langchain-color.svg](https://images.openai.com/thumbnails/url/pU4gOXicu5meUVJSUGylr5-al1xUWVCSmqJbkpRnoJdeXJJYkpmsl5yfq5-Zm5ieWmxfaAuUsXL0S7F0Tw7JSgzMzQyON3CxSDSLjzBKzisPME1zLc11Dan0NXOJqgjMdwsPCgoOCKlMVyu2NTQAAA4_JSM)" height="40" alt="LangChain" style="margin: 0 15px;" />
+</div>
 
 ### Databases & Tools
 <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin: 0 15px;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" style="margin: 0 15px;" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="40" alt="Postman" style="margin: 0 15px;" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin: 0 15px;" /> </div>
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-| Platform | Problems Solved | Status |
-|----------|----------------|--------|
-| **LeetCode** | 300+ | 🟢 Active |
-| **GeeksforGeeks** | 200+ | 🟢 Active |
 
 </div>
 
@@ -103,11 +100,11 @@ I'm a passionate **Computer Engineering student** at DDU with a strong foundatio
 
 ```javascript
 const kanjiMadariya = {
-    currentFocus: ["Full-Stack Development", "Real-Time Applications"],
+    currentFocus: ["AI-ML", "Real-Time Applications"],
     learning: ["Robotics", "AI/ML"],
-    collaboration: ["Web Development"],
-    askMeAbout: ["Backend Development", "System Design", "Problem Solving"],
-    funFact: "I believe the best code is not just functional, but elegant and maintainable"
+    collaboration: ["AI Solutions"],
+    askMeAbout: ["AI", "ML",  "Problem Solving"],
+    funFact: "I believe AI is tool that helps people a lot in any field"
 };
 ```
 
